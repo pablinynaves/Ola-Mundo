@@ -1,6 +1,4 @@
-# Olá, Mundo
- Primeiro repositório do curso de Git e Github.
+# Ola Mundo
+ Primeiro repositorio do curso de git e github
 
-Repositório Curso em Video.
-
-Essa linha eu adcionei diretamente do site.
+Repositório Gustavo Guanabara
